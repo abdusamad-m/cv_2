@@ -6,7 +6,7 @@ import "bootstrap-icons/font/bootstrap-icons.css";
 
 import html from "./assets/html.png";
 import css from "./assets/css.png";
-import js from "./assets/JS.png";
+import js from "./assets/js.png";
 import python from "./assets/python.png";
 import reactimg from "./assets/react.png";
 import api from "./assets/api.png";
