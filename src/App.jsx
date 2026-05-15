@@ -1,7 +1,7 @@
 import { useEffect, useRef } from "react";
 import "./App.css";
 
-import img from "./combonents/3.jpg";
+import img from "./components/3.jpg";
 import "bootstrap-icons/font/bootstrap-icons.css";
 
 import html from "./assets/html.png";
@@ -19,10 +19,10 @@ import bootstrap from "./assets/bootstrap.png";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.bundle.min.js";
 
-import w from "./combonents/w.png";
-import e from "./combonents/e.png";
-import r from "./combonents/4.png";
-import q from "./combonents/q.png";
+import w from "./components/w.png";
+import e from "./components/e.png";
+import r from "./components/4.png";
+import q from "./components/q.png";
 
 function App() {
   const refs = useRef([]);
